@@ -54,7 +54,7 @@ Module.register("MMM-Plantower", {
             <tr><td>Humidity</td><td class="bright">${humidity.value}</td><td class="unit align-left">${humidity.unit}</td></tr>
             <tr><td>Formaldehyde</td><td class="bright">${formaldehyde.value}</td><td class="unit align-left">${formaldehyde.unit}</td></tr>
             <tr><td>PM 1.0</td><td class="bright">${pm1.value}</td><td class="unit align-left">${pm1.unit}</td></tr>
-            <tr><td>PM 2.5</td><td class="bright">${pm2_5.value}</td><td class="unit align-left">${pm2_5.unit}</td></tr>
+            <tr><td>PM 2.5</td><td class="bright">${pm2n5.value}</td><td class="unit align-left">${pm2n5.unit}</td></tr>
             <tr><td>PM 10</td><td class="bright">${pm10.value}</td><td class="unit align-left">${pm10.unit}</td></tr>
             </tbody></table>
             `;
